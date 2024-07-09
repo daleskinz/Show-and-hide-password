@@ -1,5 +1,5 @@
 # Show-and-hide-password
-Show and hide password using HTML, CSS, JS
+Show and hide password using HTML, CSS, JavaScript
 
 
 ![default](https://github.com/daleskinz/Show-and-hide-password/assets/141495352/931789a3-8c71-4d9d-a76b-d110c6dc7c4e)
